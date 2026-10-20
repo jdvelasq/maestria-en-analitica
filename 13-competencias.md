@@ -15,6 +15,7 @@ El egresado de la Maestría en Profundización en Analítica desarrollará compe
 * Recopilar, depurar y transformar datos estructurados y no estructurados, garantizando calidad, consistencia y oportunidad de la información.
 * Implementar proyectos analíticos aplicados mediante dashboards, herramientas de BI y prototipos funcionales para mejorar procesos, servicios y productos.
 * Manejar lenguajes de programación, entornos de ingeniería de datos y plataformas de visualización para el diseño de soluciones efectivas.
+* Delegar y supervisar tareas analíticas en asistentes y agentes de inteligencia artificial generativa, verificando la calidad, los supuestos y las limitaciones de los resultados que producen antes de incorporarlos a una solución.
 
 * **Actitudinales**
 
@@ -30,7 +31,7 @@ El egresado de la Maestría en Investigación en Analítica consolidará compete
 
 * Formular problemas de investigación complejos en analítica, sustentados en marcos teóricos sólidos y en el análisis riguroso del entorno.
 * Diseñar metodologías científicas robustas basadas en estadística avanzada, optimización, simulación y modelos de inteligencia artificial.
-* Evaluar críticamente tendencias y avances de la disciplina, integrando nuevas perspectivas académicas y tecnológicas.
+* Evaluar críticamente tendencias y avances de la disciplina, integrando nuevas perspectivas académicas y tecnológicas, incluida la incorporación responsable de sistemas de inteligencia artificial generativa y agéntica en el proceso investigativo.
 
 * **Procedimentales**
 

@@ -18,7 +18,7 @@ En este sentido, la Maestría en Analítica (Business Analytics) de la UNAL – 
 
 * Inclusión y multidisciplinariedad: dirigida a profesionales de diferentes disciplinas y trayectorias, con mecanismos de nivelación que aseguran equidad técnica y enriquecimiento colectivo.
 * Rigor metodológico y ética: incorpora gobernanza de datos, explicabilidad de modelos, transparencia y responsabilidad social en cada etapa del proceso formativo.
-* Uso de tecnologías emergentes: integra metodologías de vanguardia como analítica aumentada, AutoML y arquitecturas cloud escalables.
+* Uso de tecnologías emergentes: integra metodologías de vanguardia como analítica aumentada, AutoML, inteligencia artificial generativa y agéntica, y arquitecturas cloud escalables.
 * Aprendizaje aplicado: promueve proyectos de impacto mediante capstones, incubación y divulgación científica en contextos reales.
 
 ## **Campos de acción del programa**
