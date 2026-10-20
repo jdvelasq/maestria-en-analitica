@@ -354,7 +354,16 @@ Reglas al usar esta fuente:
   niveles de memoria.
 - Igual que con los resultados de aprendizaje (sección anterior), estos
   datos se trasladan como prosa académica, sin los códigos `RA01`-`RA07`
-  ni los nombres de archivo de la fuente.
+  ni `RC01`-`RC04` (resultados de curso) ni los nombres de archivo de la
+  fuente.
+- La sección 23 usa, de cada ficha `postgraduate/<curso>.md`, el párrafo
+  de propósito, la identidad (pregunta que responde, producto terminal) y
+  los resultados del curso (`## Resultados del curso` en la fuente),
+  parafraseados —no copiados— en prosa, con cada decisión y producto
+  anclado a una organización o a un caso de negocio (ver la regla de
+  "Alcance disciplinar" arriba). No te quedes solo en los niveles
+  introduce/desarrolla/domina de `matrix.csv`: esa ficha es la fuente
+  completa de lo que cada asignatura exige.
 - La asignatura transversal de IA generativa y agéntica está marcada como
   "curso propuesto" en la fuente, no como vigente; mantenla así en el
   documento (no la presentes como ya aprobada en otro programa).
