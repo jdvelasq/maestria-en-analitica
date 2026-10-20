@@ -10,7 +10,7 @@ La necesidad de reformular el programa radica en responder a este entorno dinám
 
 Las tendencias internacionales que inspiran la actualización del programa incluyen:
 
-* Realtime analytics y autoservicio democratizado de datos, facilitando la participación transversal en la toma de decisiones .
+* Realtime analytics y autoservicio democratizado de datos, facilitando la participación transversal en la toma de decisiones de negocio dentro de las organizaciones.
 * Gobernanza y ética en IA, fundamentales para promover modelos interpretables y responsables
 * Agilidad cognitiva, capacidad para operar en entornos volátiles mediante razonamiento probabilístico y simulaciones adaptativas.
 

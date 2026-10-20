@@ -14,8 +14,8 @@ El egresado de la Maestría en Investigación será un especialista en analític
 
 * Formular y dirigir investigaciones aplicadas en analítica, interpretando necesidades del entorno organizacional y traduciéndolas en preguntas cuantitativas precisas y robustas.
 * Diseñar y desarrollar productos analíticos avanzados —como simulaciones, dashboards interactivos o sistemas automatizados— con énfasis en reproducibilidad, validación metodológica y transparencia analítica.
-* Implementar modelos predictivos, prescriptivos y de simulación que anticipen escenarios operativos y estratégicos en condiciones de incertidumbre, contribuyendo a decisiones de alto impacto.
-* Construir y evaluar escenarios estratégicos mediante análisis sistémicos y multiobjetivos, fundamentándose en modelos económicos, teoría de sistemas y rigor estadístico, para apoyar decisiones informadas y responsables.
+* Implementar modelos predictivos, prescriptivos y de simulación que anticipen escenarios operativos y estratégicos en condiciones de incertidumbre, contribuyendo a decisiones de negocio de alto impacto en la organización.
+* Construir y evaluar escenarios estratégicos mediante análisis sistémicos y multiobjetivos, fundamentándose en modelos económicos, teoría de sistemas y rigor estadístico, para apoyar decisiones de negocio informadas y responsables.
 * Comunicar hallazgos complejos de forma clara y ética, usando visualización avanzada, storytelling analítico y presentación de resultados en medios académicos y profesionales con impacto y claridad.
 
 ## **Perfil del egresado de la maestría en profundización**
@@ -25,5 +25,5 @@ El egresado de la Maestría en Profundización será un profesional analítico i
 * Implementar soluciones analíticas aplicadas, incluyendo dashboards intuitivos, herramientas de BI y prototipos analíticos, orientados a mejorar procesos, servicios o productos en diversos sectores.
 * Manejar y transformar datos complejos—estructurados y no estructurados—empleando herramientas modernas de procesamiento, ingeniería de datos y gestión de bases, con enfoque en calidad, eficiencia y escalabilidad.
 * Formular y modelar problemas reales desde el lenguaje del negocio, permitiendo traducir desafíos operacionales o estratégicos en análisis cuantitativos estratégicos relevantes.
-* Diseñar proyectos basados en analítica descriptiva, predictiva y prescriptiva, con miras a optimizar decisiones tácticas-operativas, en contextos dinámicos y exigentes.
-* Traducir resultados analíticos a públicos diversos, empleando narrativas visuales (storytelling), visualización eficaz y comunicación clara que inspire confianza, comprensión y uso efectivo en la toma de decisiones.
+* Diseñar proyectos basados en analítica descriptiva, predictiva y prescriptiva, con miras a optimizar decisiones de negocio tácticas-operativas de la organización, en contextos dinámicos y exigentes.
+* Traducir resultados analíticos a públicos diversos, empleando narrativas visuales (storytelling), visualización eficaz y comunicación clara que inspire confianza, comprensión y uso efectivo en la toma de decisiones de negocio.

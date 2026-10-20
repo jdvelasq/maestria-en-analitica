@@ -17,6 +17,20 @@ Cualquier texto nuevo o editado debe preservar esta distinción explícitamente
 y no debe describir la modalidad en términos que sugieran asincronía o
 ausencia de acompañamiento docente en tiempo real.
 
+## Alcance disciplinar: decisiones de negocio en organizaciones
+
+La analítica de este programa (*Business Analytics*) estudia decisiones
+de negocio dentro de organizaciones —recurrentes o de una sola vez,
+públicas o privadas—, nunca "la toma de decisiones" en abstracto ni "el
+análisis de datos" como actividad genérica sin un decisor organizacional
+detrás. Al escribir o editar cualquier sección, ancla cada mención de
+"decisión" o "análisis de datos" a una organización y, cuando el verbo lo
+permite, a una decisión de negocio concreta ("decisiones de negocio en la
+organización", no solo "decisiones"; "análisis de datos al servicio de
+una decisión", no "análisis de datos" como fin en sí mismo). Esto ya se
+corrigió en las secciones 02, 05, 08, 11, 12, 13, 14 y 18; mantenlo al
+redactar las que falten.
+
 ## Fundamento normativo
 
 Las normas de referencia viven en otro repositorio:

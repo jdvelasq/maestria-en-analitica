@@ -15,7 +15,7 @@ Siguiendo el Acuerdo 02 de 2020 del CESU y el Acuerdo 033 de 2007 del CSU, el pr
 El egresado de la Maestría en Profundización en Analítica demuestra los resultados de aprendizaje comunes del programa aplicados en su trabajo final, el cual refleja la adquisición de habilidades y conocimientos propios de la profesión, así como la capacidad para aplicarlos y resolver problemas concretos de una organización. Adicionalmente, estará en capacidad de:
 
 * Trabajar en equipos interdisciplinarios con pensamiento crítico, adaptabilidad y responsabilidad ética en el manejo de datos y la construcción de soluciones analíticas.
-* Comunicar resultados de forma efectiva a audiencias diversas, utilizando narrativas visuales y storytelling analítico que promuevan decisiones informadas.
+* Comunicar resultados de forma efectiva a audiencias diversas, utilizando narrativas visuales y storytelling analítico que promuevan decisiones de negocio informadas en la organización.
 
 ## **Resultados de aprendizaje para la maestría en investigación**
 

@@ -43,4 +43,4 @@ El egresado de la Maestría en Investigación en Analítica consolidará compete
 
 * Comunicar hallazgos complejos de manera clara y ética, en formatos académicos de alto nivel y en entornos organizacionales.
 * Liderar equipos interdisciplinarios de investigación, fomentando colaboración, innovación y rigor metodológico.
-* Actuar con responsabilidad social y compromiso con la generación de conocimiento útil para la toma de decisiones responsables en el ámbito público y privado.
+* Actuar con responsabilidad social y compromiso con la generación de conocimiento útil para la toma de decisiones de negocio responsables en organizaciones del ámbito público y privado.

@@ -11,7 +11,7 @@ Los objetivos específicos de formación son:
 * Diseñar y ejecutar tesis con impacto científico y social, capaces de aportar conocimiento original validado y relevante en Business Analytics, respaldado por investigación empírica aplicada a contextos reales.
 * Fomentar la comunicación efectiva de resultados científicos, empleando visualización de datos, storytelling analítico y estilos de redacción académica, con el fin de garantizar claridad, ética y rigor en la divulgación.
 * Promover la investigación interdisciplinaria e inclusiva, incorporando profesionales de diversas formaciones (ingeniería, administración, humanidades, ciencias de la salud, entre otras), mediante mecanismos de nivelación que garanticen equidad técnica y enriquecimiento colectivo.
-* Integrar principios de ética, calidad y responsabilidad en el análisis de datos, promoviendo prácticas que garanticen transparencia, privacidad, gobernanza de datos y confianza pública.
+* Integrar principios de ética, calidad y responsabilidad en el análisis de datos al servicio de decisiones de negocio en las organizaciones, promoviendo prácticas que garanticen transparencia, privacidad, gobernanza de datos y confianza pública.
 * Impulsar la aplicación de conocimiento mediante proyectos integradores (capstone académico, incubación o divulgación científica), fortaleciendo la articulación efectiva entre investigación avanzada y necesidades reales del entorno profesional y social.
 
 ## **Maestría en Profundización**
@@ -23,7 +23,7 @@ Sus objetivos específicos son los siguientes:
 * Implementar soluciones analíticas aplicadas, mediante el uso de herramientas de BI, visualización estratégica y prototipos orientados a optimizar procesos organizacionales y responder a desafíos reales en diversos sectores.
 * Gestionar y transformar datos complejos, estructurados y no estructurados, empleando tecnologías modernas de procesamiento e ingeniería de datos con enfoque en seguridad, calidad, eficiencia y escalabilidad.
 * Traducir problemas de negocio en análisis cuantitativo relevante, mediante la identificación de oportunidades y la modelación de decisiones acorde al lenguaje y necesidades de la organización.
-* Diseñar proyectos analíticos integrales, combinando analítica descriptiva, predictiva y prescriptiva con métodos táctico-operativos para fortalecer decisiones en contextos dinámicos.
-* Comunicar resultados de forma efectiva a audiencias heterogéneas, mediante storytelling analítico, visualización de insights y lenguaje claro que promueva confianza, comprensión y adopción en los procesos de toma de decisiones.
+* Diseñar proyectos analíticos integrales, combinando analítica descriptiva, predictiva y prescriptiva con métodos táctico-operativos para fortalecer decisiones de negocio de la organización en contextos dinámicos.
+* Comunicar resultados de forma efectiva a audiencias heterogéneas, mediante storytelling analítico, visualización de insights y lenguaje claro que promueva confianza, comprensión y adopción en los procesos de toma de decisiones de negocio de la organización.
 * Fomentar la inclusión disciplinaria y experiencias heterogéneas, admitiendo profesionales de diversas trayectorias mediante mecanismos de nivelación que garanticen un aprendizaje homogéneo y enriquecedor.
 * Promover el enfoque ético y responsable en la analítica, incorporando buenas prácticas en gobernanza de datos, privacidad, calidad y transparencia en todas las fases del análisis.
