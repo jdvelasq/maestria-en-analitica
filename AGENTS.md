@@ -86,6 +86,36 @@ Antes de añadir una cifra nueva a cualquier sección, verifica que proviene de
 uno de estos documentos y que la atribución (fuente + año) queda explícita en
 el texto.
 
+## Propuesta hermana: Especialización en Ingeniería de Software Agéntica
+
+`/Volumes/GitHub/ingeneria-de-software-agentica/` contiene una propuesta
+curricular independiente y completa (25 secciones) para una especialización
+distinta, del mismo Departamento de Ciencias de la Computación y de la
+Decisión. No es evidencia normativa ni empírica: es un documento hermano que
+ya resolvió, para su propio programa, problemas estructurales que esta
+propuesta todavía tiene pendientes (modalidad, evaluación, plan de
+transición, viabilidad). Úsalo como fuente de **estructura y de argumentos
+normativos adicionales**, nunca como fuente de contenido disciplinar de
+ingeniería de software, que no aplica a la Maestría en Analítica.
+
+- Su sección 09 cita el **Decreto 529 de 2024 del MEN**, que ya se incorporó
+  a la sección 02 de esta propuesta como refuerzo normativo adicional a la
+  presencialidad remota mediada por TICs.
+- Sus secciones 21 (evaluación) y 25 (plan de transición) aportaron la
+  estructura que ya se adaptó en las secciones homónimas de esta propuesta.
+- Su sección 09/22 menciona explícitamente que esa especialización
+  contempla ofrecer "Productos de Datos" de esta maestría como electiva
+  compartida; la sección 22 de esta propuesta ya registra la reciprocidad
+  de esa articulación (Art. 15, Acuerdo 033/2007).
+
+Al tomar algo de esa propuesta, **parafrasea y adapta, nunca copies texto
+literal**: es un documento de una disciplina distinta (ingeniería de
+software agéntica, no analítica), con su propio nivel (especialización de
+25 créditos, no maestría de 50-75), su propia modalidad aún hipotética y
+sus propias cifras financieras — ninguna de esas cifras o afirmaciones
+específicas de su programa se traslada a esta propuesta sin verificar que
+también aplica aquí.
+
 ## Resultados de aprendizaje
 
 `/Volumes/GitHub/classroom-vibecoding/03-learning-outcomes/` define, a nivel
@@ -121,6 +151,11 @@ leer la fuente antes de seguir citándola de memoria.
   identificador técnico. Las referencias a documentos `.md` o a rutas de
   este repositorio pertenecen únicamente a `AGENTS.md`, nunca al
   documento mismo.
+- **Parafrasear, no copiar.** Ninguna sección trasplanta texto literal de
+  otra fuente, incluida la propuesta hermana de Ingeniería de Software
+  Agéntica. Toda idea tomada de otra fuente se reformula con vocabulario y
+  ejemplos propios de analítica, y se mejora en claridad o precisión
+  respecto al original — nunca se pega la oración tal como aparece allí.
 - **Sin etiquetas de estado.** No usar sufijos como "(REVISADO)" en ningún
   título de sección. Si el borrador original los tenía, al trasladarlos
   aquí se eliminan.
@@ -141,7 +176,15 @@ leer la fuente antes de seguir citándola de memoria.
 
 ## Estado de las secciones
 
-Las secciones `09`, `15`, `17`, `21`, `22`, `23`, `24` y `25` solo contienen
-el título: son insumos pendientes de la Vicerrectoría o del programa (matriz
-RAP-RAA, malla curricular, plan de transición, etc.). No inventes contenido
-sustantivo para ellas sin pedir los insumos reales primero.
+Las secciones `15`, `17`, `23` y `24` solo contienen el título: son insumos
+pendientes de la Vicerrectoría o del programa (mapa de articulación, matriz
+RAP-RAA, malla curricular) que dependen de un listado real de asignaturas
+que esta propuesta todavía no tiene. No inventes ese listado ni esas
+matrices sin pedir los insumos reales primero.
+
+Las secciones `09`, `21` y `25` ya tienen contenido sustantivo (programa
+curricular, evaluación del aprendizaje y plan de transición,
+respectivamente), adaptado de la estructura de la propuesta hermana de
+Ingeniería de Software Agéntica. La sección `22` tiene un párrafo de
+articulación con esa propuesta hermana, pero sigue pendiente el listado de
+asignaturas elegibles propias del programa.
