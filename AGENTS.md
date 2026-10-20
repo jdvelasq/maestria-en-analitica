@@ -361,13 +361,14 @@ Reglas al usar esta fuente:
 
 ## Estado de las secciones
 
-La sección `15` (mapa de articulación) sigue siendo un insumo pendiente de
-la Vicerrectoría. No inventes su contenido sin pedir los insumos reales.
-
-Las secciones `09`, `16`, `17`, `21`, `22`, `23`, `24` y `25` ya tienen
-contenido sustantivo: `09`, `21` y `25` adaptados de la estructura de la
-propuesta hermana de Ingeniería de Software Agéntica; `16`, `17`, `22`,
-`23` y `24` construidas a partir de la estructura real de créditos
+Las secciones `09`, `15`, `16`, `17`, `21`, `22`, `23`, `24` y `25` ya
+tienen contenido sustantivo: `09`, `21` y `25` adaptados de la estructura
+de la propuesta hermana de Ingeniería de Software Agéntica; `15` redactada
+a partir de los objetivos (11), competencias (13), resultados de
+aprendizaje (14) y asignaturas (22) ya existentes en este documento, una
+vez hubo suficiente material propio para construirla sin depender de un
+insumo externo de la Vicerrectoría; `16`, `17`, `22`, `23` y `24`
+construidas a partir de la estructura real de créditos
 (confirmada por David) y del listado real de asignaturas y la matriz de
 `04-curriculum/`, ambos descritos arriba. Queda pendiente, en el plan de
 Maestría de Investigación, la decisión del comité asesor sobre cuáles tres
