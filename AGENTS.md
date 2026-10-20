@@ -86,6 +86,57 @@ Antes de añadir una cifra nueva a cualquier sección, verifica que proviene de
 uno de estos documentos y que la atribución (fuente + año) queda explícita en
 el texto.
 
+## Panorama competitivo y evidencia de búsqueda web
+
+Una ronda de búsqueda web (octubre de 2026) identificó competidores directos
+e indirectos, y precedentes regulatorios, que ya se incorporaron al
+documento. Si se repite esta investigación más adelante, verifica primero
+si las cifras y programas siguen vigentes antes de volver a citarlos:
+
+- **Competidores locales (Medellín):** Universidad EAFIT (Maestría en
+  Ciencias de los Datos y Analítica, presencial) y Universidad EIA
+  (Maestría en Analítica y Ciencia de Datos, presencial) — citados en la
+  sección 03 como panorama competitivo.
+- **Competidores nacionales:** Universidad de los Andes (MIAD, virtual),
+  Politécnico Grancolombiano y Areandina (virtuales), Universidad Jorge
+  Tadeo Lozano y Javeriana Cali (presenciales) — citados en la sección 03.
+  Ninguno de estos competidores combina actualmente presencialidad
+  sincrónica con mediación TIC de alta proporción remota; ese es el
+  diferenciador real de esta actualización, no solo un argumento teórico.
+- **Precedente regulatorio directo:** en 2026, la Universidad de los
+  Llanos tramitó y obtuvo la aprobación de su Consejo Superior para
+  cambiar su Maestría en Educación de modalidad presencial a híbrida
+  (presencial-virtual) bajo el Decreto 529 de 2024, con el trámite
+  correspondiente ante el SACES del Ministerio de Educación. Esto ya se
+  incorporó a la sección 02 como evidencia de que la ruta regulatoria
+  opera en la práctica, no solo en la teoría normativa. También se
+  precisó, con la misma búsqueda, que el Decreto 529 de 2024 distingue
+  modalidad híbrida (que exige un componente de asistencia remota) de la
+  mera incorporación de TIC a un programa presencial sin componente
+  remoto — la propuesta de esta maestría, al tener sesiones remotas
+  sincrónicas, encuadra en la primera categoría.
+- **Fedesoft, actualización de la brecha de talento:** la cifra de brecha
+  de talento digital se amplió más allá del 33,3% de cobertura curricular
+  (MinTIC-Fedesoft 2025, ya citado) con una cifra absoluta más reciente de
+  Fedesoft: 83.000 vacantes tecnológicas sin cubrir, con proyección a
+  89.000 hacia 2030, y el peso económico del sector (10% de exportaciones
+  de servicios, 3,6% del PIB). Ya incorporada a la sección 08.
+- **Programas internacionales de referencia:** Golden Gate University y
+  Fairfield University incorporan IA generativa y agéntica, con ética y
+  gobernanza, como núcleo obligatorio (no electivo) de sus maestrías en
+  analítica de negocios. Ya incorporado a la sección 04 como respaldo de
+  que la IA agéntica debe tratarse como componente central, no periférico.
+- **INFORMS CAP:** se verificó que el marco de certificación sigue
+  vigente sobre los mismos siete dominios (planteamiento del problema de
+  negocio, planteamiento del problema analítico, datos, metodología,
+  modelado, despliegue y gestión del ciclo de vida), sin cambios
+  sustantivos de dominio en 2026 — los resultados de aprendizaje de la
+  sección 14 ya son coherentes con ese marco; no requirió cambios.
+
+Como con las demás fuentes externas, cualquier cifra o afirmación tomada
+de una búsqueda web se atribuye por nombre institucional en el texto del
+documento, nunca como una URL o un nombre de archivo.
+
 ## Propuesta hermana: Especialización en Ingeniería de Software Agéntica
 
 `/Volumes/GitHub/ingeneria-de-software-agentica/` contiene una propuesta
