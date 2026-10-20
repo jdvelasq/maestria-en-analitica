@@ -225,17 +225,80 @@ leer la fuente antes de seguir citándola de memoria.
 - **Idioma:** español, registro académico-institucional, igual al del resto
   del documento.
 
+## Listado real de asignaturas del núcleo obligatorio
+
+`/Volumes/GitHub/classroom-vibecoding/04-curriculum/` define el listado
+real de asignaturas de posgrado del área de analítica y la matriz que
+reparte los siete resultados de aprendizaje comunes (sección 14) entre
+ellas (`matrix.csv`). David confirmó que las seis asignaturas del núcleo
+disciplinar de esta maestría son exactamente las de `courses.md` a nivel
+`posgrado`: analítica descriptiva y visualización de datos, analítica
+predictiva, analítica prescriptiva, analítica de grandes datos, productos
+de datos, e IA generativa e IA agéntica para analítica (curso transversal,
+`estado: "propuesto"` en la fuente). Esto ya se usó para redactar las
+secciones 17, 22, 23 y 24 de esta propuesta.
+
+## Estructura real de créditos del plan de estudios (confirmada por David)
+
+David confirmó la estructura vigente de créditos de ambos planes, con un
+**total de 52 créditos** cada uno (dentro del rango de 50-75 del Acuerdo
+033/2007):
+
+- **Maestría de Investigación:** Seminarios de Investigación I (4),
+  Seminarios de Investigación II (2), Proyecto de Tesis (4), Tesis de
+  Maestría (22) — subtotal obligatorio 32 — más 20 créditos de
+  asignaturas elegibles. La tesis (22/52 = 42,3%) cumple el mínimo del
+  40% del Art. 11.c.i.
+- **Maestría de Profundización:** Seminarios de Investigación I (4),
+  Propuesta de Trabajo Final (6), Trabajo Final (10) — subtotal
+  obligatorio 20 — más 32 créditos de asignaturas elegibles. El trabajo
+  final (10/52 = 19,2%) cumple el máximo del 20% del Art. 11.c.ii.
+- **Las asignaturas elegibles son de 4 créditos cada una.** Por eso la
+  Maestría de Investigación tiene espacio para 5 asignaturas elegibles
+  (20/4) y la de Profundización para 8 (32/4).
+
+Punto importante: en esta estructura real, las seis asignaturas del
+núcleo disciplinar de `04-curriculum/` **no son un bloque obligatorio
+aparte**; son asignaturas elegibles. Por eso las secciones 16, 17 y 22 ya
+las presentan dentro del componente elegible de cada plan, no como una
+cuarta categoría de créditos. En Profundización caben las seis (24
+créditos) más dos de libre elección (8 créditos) = 32. En Investigación
+solo caben cinco de las seis (20 créditos): el documento deja explícito
+que el comité asesor debe decidir cuál de las seis queda como elegible de
+libre elección en ese énfasis — no se inventó cuál, y no se debe inventar
+sin que el comité lo decida.
+
+Reglas al usar esta fuente:
+
+- El número de créditos de cada una de las seis asignaturas
+  individualmente **no** está definido en `04-curriculum/` (esa fuente no
+  asigna créditos, solo resultados de aprendizaje); se asumió el crédito
+  estándar de 4 por asignatura elegible, que sí es un dato confirmado por
+  David. No inventes una distribución de créditos distinta a 4 por
+  asignatura sin confirmación.
+- Los niveles `introduce`/`desarrolla`/`domina` de `matrix.csv` sí son
+  dato real y ya están reflejados en las secciones 23 y 24; si
+  `matrix.csv` cambia, vuelve a leerlo antes de seguir citando estos
+  niveles de memoria.
+- Igual que con los resultados de aprendizaje (sección anterior), estos
+  datos se trasladan como prosa académica, sin los códigos `RA01`-`RA07`
+  ni los nombres de archivo de la fuente.
+- La asignatura transversal de IA generativa y agéntica está marcada como
+  "curso propuesto" en la fuente, no como vigente; mantenla así en el
+  documento (no la presentes como ya aprobada en otro programa).
+
 ## Estado de las secciones
 
-Las secciones `15`, `17`, `23` y `24` solo contienen el título: son insumos
-pendientes de la Vicerrectoría o del programa (mapa de articulación, matriz
-RAP-RAA, malla curricular) que dependen de un listado real de asignaturas
-que esta propuesta todavía no tiene. No inventes ese listado ni esas
-matrices sin pedir los insumos reales primero.
+La sección `15` (mapa de articulación) sigue siendo un insumo pendiente de
+la Vicerrectoría. No inventes su contenido sin pedir los insumos reales.
 
-Las secciones `09`, `21` y `25` ya tienen contenido sustantivo (programa
-curricular, evaluación del aprendizaje y plan de transición,
-respectivamente), adaptado de la estructura de la propuesta hermana de
-Ingeniería de Software Agéntica. La sección `22` tiene un párrafo de
-articulación con esa propuesta hermana, pero sigue pendiente el listado de
-asignaturas elegibles propias del programa.
+Las secciones `09`, `16`, `17`, `21`, `22`, `23`, `24` y `25` ya tienen
+contenido sustantivo: `09`, `21` y `25` adaptados de la estructura de la
+propuesta hermana de Ingeniería de Software Agéntica; `16`, `17`, `22`,
+`23` y `24` construidas a partir de la estructura real de créditos
+(confirmada por David) y del listado real de asignaturas y la matriz de
+`04-curriculum/`, ambos descritos arriba. Queda pendiente, en el plan de
+Maestría de Investigación, la decisión del comité asesor sobre cuál de las
+seis asignaturas del núcleo disciplinar se ofrece como elegible de libre
+elección (solo caben cinco de seis en sus 20 créditos elegibles); no
+inventes esa decisión.

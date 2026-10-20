@@ -1,16 +1,44 @@
 # **Estructura del Plan de Estudios**
 
-*La estructura del plan de estudios debe contener:*
+El plan de estudios es un conjunto de actividades académicas, organizadas mediante asignaturas reunidas en los componentes de formación que un estudiante debe cursar para alcanzar los propósitos educativos de un programa curricular; éstas se encuentran organizadas mediante créditos obligatorios y créditos elegibles, con el objetivo en la Maestría de desarrollar la capacidad investigativa, la aplicación del conocimiento y la formulación de soluciones a problemas disciplinarios, interdisciplinarios o profesionales. El programa curricular de la Maestría en Analítica tiene un plan de estudios de Maestría de Investigación y un plan de estudios de Maestría de Profundización, ambos con un total de **52 créditos académicos**, dentro del rango de 50 a 75 créditos que fija el Acuerdo 033 de 2007 del CSU para programas de maestría.
 
-1. *Número de créditos del Plan.*
-2. *Una descripción de los componentes de asignaturas elegibles y actividades académicas, explicando la finalidad de la estructura que lo constituye.*
-3. *Una reflexión sobre la flexibilidad en el plan de estudios. Se sugiere presentar además, el porcentaje respecto al número total de créditos.*
-4. *Una reflexión sobre el carácter interdisciplinario del plan de estudios.*
+## **Plan de estudios de la Maestría de Investigación**
 
-El plan de estudios es un conjunto de actividades académicas, organizadas mediante asignaturas reunidas en los componentes de formación que un estudiante debe cursar para alcanzar los propósitos educativos de un programa curricular; éstas se encuentran organizadas mediante créditos obligatorios y créditos elegibles, con el objetivo en la Maestría de desarrollar la capacidad investigativa, la aplicación del conocimiento, la creación artística y la formulación de soluciones a problemas disciplinarios, interdisciplinarios, artísticos o profesionales. Un programa curricular de maestría podrá tener un plan de estudios de Maestría de Investigación y/o un plan de estudios de Maestría de Profundización.
+La Maestría de Investigación desarrolla conocimientos, habilidades y destrezas que permiten la participación activa del estudiante en procesos de investigación generadores de nuevo conocimiento. Su componente obligatorio se estructura así:
 
-La Maestría de investigación desarrolla conocimientos, habilidades y destrezas que permiten la participación activa del estudiante en procesos de investigación generadores de nuevos conocimientos, procesos tecnológicos o de creación artística. Es requisito para obtener el título de esta maestría la elaboración de una tesis equivalente a un mínimo del 40% del total de créditos del programa curricular.
+| Actividad académica | Créditos |
+| --- | --- |
+| Seminarios de Investigación I | 4 |
+| Seminarios de Investigación II | 2 |
+| Proyecto de Tesis | 4 |
+| Tesis de Maestría | 22 |
+| **Subtotal obligatorio** | **32** |
+| Asignaturas elegibles | 20 |
+| **Total** | **52** |
 
-La Maestría de profundización examina y actualiza el desarrollo de conocimientos, habilidades y destrezas disciplinarias que permiten el análisis orientado a la solución de problemas de carácter profesional. Es requisito para obtener el título de esta maestría la elaboración de un trabajo final equivalente a un máximo del 20% del total de créditos del programa curricular.
+La Tesis de Maestría equivale al 42,3% del total de créditos del programa, por encima del mínimo del 40% exigido por el Acuerdo 033 de 2007 (Art. 11.c.i) para este plan de estudios.
 
-TENEMOS QUE DIFERENCIAR LOS SIGUIENTES ASPECTOS PARA LA MODALIDAD DE INVESTIGACIÓN Y LA DE PROFUNDIZACIÓN
+## **Plan de estudios de la Maestría de Profundización**
+
+La Maestría de Profundización examina y actualiza el desarrollo de conocimientos, habilidades y destrezas disciplinarias que permiten el análisis orientado a la solución de problemas de carácter profesional. Su componente obligatorio se estructura así:
+
+| Actividad académica | Créditos |
+| --- | --- |
+| Seminarios de Investigación I | 4 |
+| Propuesta de Trabajo Final | 6 |
+| Trabajo Final | 10 |
+| **Subtotal obligatorio** | **20** |
+| Asignaturas elegibles | 32 |
+| **Total** | **52** |
+
+El Trabajo Final equivale al 19,2% del total de créditos del programa, dentro del máximo del 20% que fija el Acuerdo 033 de 2007 (Art. 11.c.ii) para este plan de estudios.
+
+## **Componente de asignaturas elegibles**
+
+Las asignaturas elegibles de ambos planes son de 4 créditos cada una. Este componente concentra la formación disciplinar propia de la analítica —las asignaturas descritas en la sección sobre asignaturas y actividades académicas— y constituye el principal mecanismo de flexibilidad del plan de estudios: representa el 38,5% de los créditos totales en la Maestría de Investigación y el 61,5% en la Maestría de Profundización, lo que permite a cada estudiante construir una trayectoria de formación ajustada a su disciplina de origen y a sus intereses profesionales, conforme al principio de flexibilidad del Artículo 1 del Acuerdo 033 de 2007.
+
+El mayor peso del componente elegible en la Maestría de Profundización responde a su énfasis en la aplicación de conocimientos ya existentes a problemas profesionales concretos, mientras que en la Maestría de Investigación ese espacio se reduce en favor de los seminarios de investigación, el proyecto de tesis y la tesis misma.
+
+## **Carácter interdisciplinario del plan de estudios**
+
+El componente elegible, al no estar restringido a asignaturas de un único origen disciplinar, permite la participación de profesionales de ingeniería, matemáticas, estadística, economía, administración y otras disciplinas con componente cuantitativo, consistente con el perfil del aspirante descrito en la sección 12. La articulación con asignaturas elegibles de otros posgrados de la Facultad de Minas, como la propuesta de Especialización en Ingeniería de Software Agéntica, refuerza este carácter interdisciplinario sin comprometer la identidad disciplinar propia de la analítica.
