@@ -86,8 +86,41 @@ Antes de añadir una cifra nueva a cualquier sección, verifica que proviene de
 uno de estos documentos y que la atribución (fuente + año) queda explícita en
 el texto.
 
+## Resultados de aprendizaje
+
+`/Volumes/GitHub/classroom-vibecoding/03-learning-outcomes/` define, a nivel
+de especialización, siete resultados de aprendizaje (`outcomes/RA01.md` a
+`RA07.md`) y el perfil de egreso (`profile.md`) del posgrado en analítica de
+ese proyecto. Por diseño explícito de esa fuente (`format.md`, sección
+"Alcance"), la maestría reutiliza íntegramente esos siete resultados y solo
+agrega el componente de tesis (Maestría de Investigación) o de trabajo final
+de aplicación (Maestría de Profundización) exigido por el Acuerdo 033/2007.
+No inventes un octavo resultado para investigación: esa fuente deja ese
+componente fuera de su alcance a propósito.
+
+La sección 14 de esta propuesta ya transcribe el contenido de esos siete
+resultados como prosa académica corrida, sin sus códigos ni referencias a
+la fuente (ver regla de "documento final, autocontenido" arriba). Si se
+edita esa sección o las secciones 11, 12 o 13, conserva el verbo, el objeto
+y el nivel de autonomía de cada resultado tal como está en la fuente, pero
+nunca copies su identificador ni mencione la fuente dentro del texto que
+leerán los pares académicos. Si `03-learning-outcomes/` cambia, vuelve a
+leer la fuente antes de seguir citándola de memoria.
+
 ## Reglas de consistencia del documento
 
+- **Documento final, autocontenido y académico.** Este documento lo leen
+  pares académicos externos. El texto de cualquiera de los 25 archivos
+  numerados nunca debe citar códigos internos de otra fuente (`RA01`,
+  `C001`, IDs de competencias), rutas de archivo, nombres de repositorios
+  o referencias a `AGENTS.md`. Cuando se incorpore contenido de una fuente
+  externa (normativa, evidencia de mercado, resultados de aprendizaje de
+  otro proyecto), se traduce a prosa académica corrida y se atribuye por
+  su nombre institucional (p. ej. "el Acuerdo 033 de 2007 del CSU", "el
+  estudio de MinTIC y Fedesoft de 2025") — nunca por nombre de archivo o
+  identificador técnico. Las referencias a documentos `.md` o a rutas de
+  este repositorio pertenecen únicamente a `AGENTS.md`, nunca al
+  documento mismo.
 - **Sin etiquetas de estado.** No usar sufijos como "(REVISADO)" en ningún
   título de sección. Si el borrador original los tenía, al trasladarlos
   aquí se eliminan.
