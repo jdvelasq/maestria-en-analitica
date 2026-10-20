@@ -58,6 +58,34 @@ Si una sección nueva necesita apoyo normativo adicional, consulta esos
 documentos antes de inventar redacción; no asumas requisitos que no estén
 en ellos.
 
+## Fundamento empírico (mercado y política pública)
+
+Además de la normativa, hay evidencia cuantitativa de mercado y política
+pública en `/Volumes/GitHub/classroom-vibecoding/01-evidence/md/governmental/`.
+Úsala para sustentar cifras de brecha de talento, crecimiento de posgrado y
+adopción de modalidades híbridas; no para argumentos pedagógicos o de
+contenido curricular (eso lo cubre `01-evidence/md/authoritative/` y
+`literature-derived/`, que pertenecen al otro proyecto y no se usan aquí).
+
+- **MinTIC-Fedesoft, "Caracterización de la brecha de talento digital en
+  Colombia" (2025)** (`mintic-fedesoft-talento-digital-2025-2030.md`): fuente
+  de los datos ya citados en las secciones 01, 02, 06 y 08 — crecimiento del
+  posgrado en TI (+280% desde 2015, 44,04% de la oferta total, 111 programas
+  de maestría), el salto de maestrías con componente virtual de 2 a 36
+  programas entre 2015 y 2025, las categorías SNIES de modalidad combinada
+  ("Presencial-Virtual", "Híbrida") y la brecha del 33,3% entre la demanda
+  laboral y la cobertura curricular universitaria en ciencia de
+  datos/analítica/IA. Al citar estas cifras, mantén la atribución a la fuente
+  y el año (2025); no las presentes como dato propio del programa.
+- **MinTIC, "Talento Tech" (2024-2026)** (`mintic-talento-tech-2024-2026.md`):
+  programa de bootcamps de habilidades digitales del gobierno nacional, usado
+  en la sección 06 como incentivo gubernamental vigente que complementa (no
+  reemplaza) Colfuturo, Sapiencia e ICETEX.
+
+Antes de añadir una cifra nueva a cualquier sección, verifica que proviene de
+uno de estos documentos y que la atribución (fuente + año) queda explícita en
+el texto.
+
 ## Reglas de consistencia del documento
 
 - **Sin etiquetas de estado.** No usar sufijos como "(REVISADO)" en ningún
