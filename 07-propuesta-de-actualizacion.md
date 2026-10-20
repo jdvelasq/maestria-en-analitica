@@ -1,5 +1,7 @@
 # **PROPUESTA DE ACTUALIZACIÓN**
 
-* *Descripción de las modificaciones y ajustes propuestos para el programa*
-* *Cuáles son las necesidades de formación*
-* *Alineación con la misión, la visión y los principios de la UNAL*
+La actualización de la Maestría en Analítica modifica tres dimensiones del programa vigente: su modalidad, su estructura curricular y su alcance temático. En modalidad, el programa adopta la presencialidad remota mediada por TICs, con un mínimo del 70% de sesiones sincrónicas, en lugar de la presencialidad tradicional. En estructura curricular, el plan de estudios se reorganiza alrededor de un núcleo disciplinar común de seis asignaturas —analítica descriptiva y visualización de datos, analítica predictiva, analítica prescriptiva, analítica de grandes datos, productos de datos, e IA generativa e IA agéntica para analítica—, con una redistribución de créditos entre los componentes obligatorio y elegible de ambos planes de estudio. En alcance temático, el programa incorpora de manera explícita la inteligencia artificial generativa y agéntica como componente transversal de la formación, reflejando su adopción creciente en la práctica profesional de la analítica.
+
+Esta actualización responde a necesidades de formación documentadas en los capítulos precedentes: la brecha de competencias en ciencia de datos, analítica e inteligencia artificial que reportan el mercado laboral colombiano y los gremios del sector tecnológico; la demanda de modalidades flexibles mediadas por TIC que preserven el rigor académico presencial; y la exigencia, cada vez más generalizada en programas de referencia internacional, de formar profesionales capaces de delegar y supervisar responsablemente tareas analíticas en agentes de inteligencia artificial.
+
+La propuesta se alinea con la misión, la visión y los principios de la Universidad Nacional de Colombia al mantener los principios de excelencia académica, flexibilidad e interdisciplinariedad del Acuerdo 033 de 2007 del CSU, al tiempo que fortalece la pertinencia social del programa frente a las necesidades actuales del entorno productivo, gubernamental y académico del país.

@@ -103,6 +103,27 @@ si las cifras y programas siguen vigentes antes de volver a citarlos:
   Ninguno de estos competidores combina actualmente presencialidad
   sincrónica con mediación TIC de alta proporción remota; ese es el
   diferenciador real de esta actualización, no solo un argumento teórico.
+- **Cronología corregida (importante):** la primera redacción de la
+  sección 03 presentaba a la UNAL como un entrante tardío frente a estos
+  competidores. Esto era incorrecto: la Especialización en Analítica de
+  la Facultad de Minas —antecedente directo de esta maestría— se creó en
+  **2014** (SNIES 104511), y la Universidad de los Andes registró su
+  primer programa de posgrado en el área en **2015** (Resolución 1338 del
+  3 de febrero de 2015). EAFIT, EIA, Jorge Tadeo, Politécnico
+  Grancolombiano, Areandina y la modalidad virtual de Javeriana Cali
+  (registro 2021, lanzada en 2022) aparecieron varios años después, entre
+  2017 y 2022. La sección 03 ya refleja esta cronología verificada: la
+  actualización se apalanca en casi una década de experiencia acumulada,
+  no en alcanzar a competidores que llevan ventaja.
+- **No repetir mercadeo de competidores sin verificar:** la primera
+  redacción también citaba, sin cuestionarla, la frase de EAFIT según la
+  cual su maestría fue "la primera del país en integrar datos y
+  analítica". Esa frase trata la ciencia de datos y la analítica como dos
+  campos separados que hay que "integrar", cuando la ciencia de datos es
+  un subcampo dentro de la analítica (ver el dominio del área en
+  `01-evidence/domain.md` del proyecto hermano de currículo). Nunca
+  reproduzcas el eslogan de mercadeo de un competidor como si fuera un
+  hecho verificado o una categorización correcta del campo.
 - **Precedente regulatorio directo:** en 2026, la Universidad de los
   Llanos tramitó y obtuvo la aprobación de su Consejo Superior para
   cambiar su Maestría en Educación de modalidad presencial a híbrida
