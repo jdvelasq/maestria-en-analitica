@@ -1,6 +1,6 @@
 # **Matriz de Relacionamiento entre RAP y RAA**
 
-La siguiente matriz relaciona cada resultado de aprendizaje del programa (sección 14) con las asignaturas del núcleo obligatorio (sección 22) en las que se introduce, se desarrolla o se domina. Un resultado llega a dominarse en al menos una asignatura antes de la graduación; ninguna asignatura queda sin resultados asignados.
+La siguiente matriz relaciona cada resultado de aprendizaje del programa (sección 14) con las asignaturas del núcleo disciplinar (sección 22) en las que se introduce, se desarrolla o se domina. Cada resultado llega a dominarse en al menos una asignatura del núcleo; ninguna asignatura queda sin resultados asignados.
 
 | Resultado de aprendizaje del programa | Descriptiva y visualización | Predictiva | Prescriptiva | Grandes datos | Productos de datos | IA generativa y agéntica |
 | --- | --- | --- | --- | --- | --- | --- |

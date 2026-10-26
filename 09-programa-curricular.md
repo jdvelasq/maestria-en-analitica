@@ -6,7 +6,7 @@ La actualización conserva la denominación vigente de la **Maestría en Ingenie
 
 ## **Información general del programa**
 
-El programa continuará adscrito al Departamento académico responsable dentro de la Facultad de Minas, conforme a su organización curricular vigente. El programa mantiene un total de **40 créditos académicos**, tanto en la Maestría de Investigación como en la Maestría de Profundización, dentro del rango de créditos para programas de maestría del proceso de actualización normativa de la Universidad, que reduce el rango histórico de 50 a 75 créditos del Acuerdo 033 de 2007 del CSU. La distribución específica entre créditos obligatorios y elegibles se detalla en los capítulos sobre estructura del plan de estudios y malla curricular.
+El programa continuará adscrito al Departamento académico responsable dentro de la Facultad de Minas, conforme a su organización curricular vigente. El programa mantiene un total de **52 créditos académicos**, distribuidos en cuatro períodos académicos, tanto en la Maestría de Investigación como en la Maestría de Profundización, dentro del rango de 50 a 75 créditos que fija el Acuerdo 033 de 2007 del CSU para los programas de maestría. La distribución específica entre créditos obligatorios y elegibles se detalla en los capítulos sobre estructura del plan de estudios y malla curricular.
 
 ## **Modalidad**
 

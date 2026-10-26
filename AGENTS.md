@@ -275,70 +275,37 @@ secciones 17, 22, 23 y 24 de esta propuesta.
 
 ## Estructura real de créditos del plan de estudios (confirmada por David)
 
-David confirmó primero la estructura vigente de ambos planes (52 créditos
-cada uno) y luego pidió reducirla, en línea con la decisión de llevar las
-especializaciones del área de 28 créditos (4 obligatorias + 3 optativas)
-a 24-25 créditos (~6 asignaturas de 4 créditos). Esa reducción pasó por
-varias iteraciones, cada una reportada antes de aplicarse:
+Hubo una serie de iteraciones que llevaron ambos planes a 40 créditos;
+David las **revirtió** (octubre de 2026) y confirmó, con la tabla del
+plan vigente, que el programa es de **52 créditos en cuatro períodos
+académicos** y que la actualización no modifica los créditos. No vuelvas
+a proponer la reducción a 40 sin que David lo pida. La maestría se creó
+en 2017 (Acuerdo 262 de 2017 del CSU, **SNIES 106965**); la
+Especialización en Analítica de 2014 (SNIES 104511) es su antecedente.
 
-1. Primer intento: recortar solo las electivas de Profundización (32→24)
-   dejando el Trabajo Final en 10 créditos sobre un total de 44 — esto
-   subía el Trabajo Final al 22,7%, por encima del máximo del 20% del
-   Art. 11.c.ii. Se reportó la inconsistencia antes de aplicar nada.
-2. David resolvió bajando el Trabajo Final a 8 créditos y fijando las
-   electivas de Profundización en 24 (total 42). Luego pidió que ambos
-   planes de maestría tuvieran el mismo total de créditos, con
-   Investigación llevando menos electivas que las 6 de Profundización.
-3. David notó una segunda inconsistencia: Proyecto de Tesis (4 créditos)
-   y Propuesta de Trabajo Final (6 créditos) cumplen una función
-   equivalente en cada plan y no tenía sentido que difirieran. Pidió
-   igualarlos en 4 créditos cada uno.
-4. Igualar la Propuesta a 4 créditos, manteniendo el Trabajo Final en 8
-   y las electivas de Profundización en 24, bajó el total de
-   Profundización de 42 a 40. Para que ambos planes compartieran el
-   mismo total, Investigación también quedó en 40.
-5. David fijó el número de electivas de Investigación en 3 (no 2 ni 5) y
-   pidió bajar la Tesis de Maestría lo que fuera necesario para cuadrar
-   el total en 40.
-
-La estructura final, vigente en el documento, es:
-
-- **Maestría de Investigación (40 créditos):** Seminarios de
+- **Maestría de Investigación (52 créditos):** Seminarios de
   Investigación I (4), Seminarios de Investigación II (2), Proyecto de
-  Tesis (4), Tesis de Maestría (18, reducida desde 22) — subtotal
-  obligatorio 28 — más 12 créditos de asignaturas elegibles (3 de las 6
-  del núcleo disciplinar). La tesis (18/40 = 45,0%) cumple el mínimo del
-  40% del Art. 11.c.i.
-- **Maestría de Profundización (40 créditos):** Seminarios de
-  Investigación I (4), Propuesta de Trabajo Final (4), Trabajo Final (8)
-  — subtotal obligatorio 16 — más 24 créditos de asignaturas elegibles
-  (las 6 del núcleo disciplinar completo, sin créditos de libre
-  elección). El Trabajo Final (8/40 = 20,0%) está en el límite máximo
-  del Art. 11.c.ii, no por debajo de él.
+  Tesis (4), Tesis de Maestría (22) — subtotal obligatorio 32 — más 20
+  créditos de asignaturas elegibles (5 asignaturas que escoge el
+  estudiante entre las elegibles del programa).
+  La tesis (22/52 = 42,3%) cumple el mínimo del 40% del Art. 11.c.i.
+- **Maestría de Profundización (52 créditos):** Seminarios de
+  Investigación I (4), Propuesta de Trabajo Final (6), Trabajo Final
+  (10) — subtotal obligatorio 20 — más 32 créditos de asignaturas
+  elegibles (8 asignaturas que escoge el estudiante entre todas las
+  asignaturas ofrecidas por la Facultad de Minas). El Trabajo Final (10/52 = 19,2%) cumple el máximo del
+  20% del Art. 11.c.ii.
 - **Las asignaturas elegibles son de 4 créditos cada una** (dato
-  confirmado por David, no inferido de `04-curriculum/`, que no asigna
-  créditos).
-- **Proyecto de Tesis = Propuesta de Trabajo Final = 4 créditos**, por
-  decisión explícita de David de igualar ambas actividades preparatorias.
+  confirmado por David, no inferido de `04-curriculum/`).
+- Proyecto de Tesis (4) y Propuesta de Trabajo Final (6) **no** tienen
+  los mismos créditos en el plan vigente; no los iguales.
 
-Punto importante: en esta estructura, las seis asignaturas del núcleo
-disciplinar de `04-curriculum/` **no son un bloque obligatorio aparte**;
-son asignaturas elegibles. Por eso las secciones 16, 17 y 22 las
-presentan dentro del componente elegible de cada plan. En Profundización
-las 24 créditos elegibles coinciden exactamente con las seis asignaturas,
-sin espacio para electivas adicionales. En Investigación solo caben tres
-de las seis (12 créditos): el documento deja explícito que el comité
-asesor debe decidir cuáles tres conforman ese plan de estudios — no se
-inventó cuáles, y no se debe inventar sin que el comité lo decida.
-
-**Pendiente de verificación:** el "proceso de actualización normativa"
-que, según David, sitúa el rango de créditos de maestría entre 36 y 54
-(en lugar de los 50-75 del Acuerdo 033/2007) no tiene todavía, en este
-documento, el nombre o número de instrumento (acuerdo, resolución) que lo
-formaliza. Las secciones 09 y 16 lo citan de forma genérica ("el proceso
-de actualización normativa de la Universidad"), sin inventar un número de
-acuerdo. Si consigues el nombre exacto del instrumento, actualiza esa
-cita en ambas secciones y en esta nota.
+Todas las asignaturas son elegibles y **el estudiante decide cuáles
+cursa** (confirmado por David): no hay asignaturas obligatorias del núcleo
+ni decisión del comité asesor sobre cuáles se cursan. En Investigación
+escoge entre las elegibles del programa; en Profundización, entre todas
+las asignaturas ofrecidas por la Facultad de Minas (por eso la
+articulación con otros posgrados, Art. 15, no requiere sustitución).
 
 Reglas al usar esta fuente:
 
@@ -379,8 +346,6 @@ vez hubo suficiente material propio para construirla sin depender de un
 insumo externo de la Vicerrectoría; `16`, `17`, `22`, `23` y `24`
 construidas a partir de la estructura real de créditos
 (confirmada por David) y del listado real de asignaturas y la matriz de
-`04-curriculum/`, ambos descritos arriba. Queda pendiente, en el plan de
-Maestría de Investigación, la decisión del comité asesor sobre cuáles tres
-de las seis asignaturas del núcleo disciplinar conforman ese plan de
-estudios (solo caben tres de seis en sus 12 créditos elegibles); no
-inventes esa decisión.
+`04-curriculum/`, ambos descritos arriba. La elección de asignaturas elegibles
+corresponde al estudiante en ambos planes; no la atribuyas al comité
+asesor.
